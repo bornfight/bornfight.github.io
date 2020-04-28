@@ -1,0 +1,43 @@
+{
+  "coverage": "47.05%",
+  "expectCount": 34,
+  "actualCount": 16,
+  "files": {
+    "components/GridHelper.js": {
+      "expectCount": 11,
+      "actualCount": 2,
+      "undocumentLines": [
+        1,
+        6,
+        10,
+        32,
+        34,
+        40,
+        44,
+        49,
+        55
+      ]
+    },
+    "components/NavigationController.js": {
+      "expectCount": 16,
+      "actualCount": 13,
+      "undocumentLines": [
+        6,
+        42,
+        43
+      ]
+    },
+    "components/TypedController.js": {
+      "expectCount": 7,
+      "actualCount": 1,
+      "undocumentLines": [
+        3,
+        8,
+        13,
+        14,
+        17,
+        27
+      ]
+    }
+  }
+}
