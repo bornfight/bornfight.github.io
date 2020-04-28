@@ -4,7 +4,7 @@
 
         //overrides
         .u-a7 {
-            max-width: percentage(12/20);
+            max-width: percentage(14/20);
 
             @include mq("md") {
                 max-width: 100%;
